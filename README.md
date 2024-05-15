@@ -15,8 +15,7 @@
 
 ### Clone the Project
 
-git clone
-
+git clone:
 https://github.com/SanjanaSingh1818/Alemeno_React_Assignment.git
 
 ### Running the Project Locally
@@ -31,7 +30,7 @@ npm start
 
 ## Working of the Website
 
-After running locally or opening the deployed website ([https://sanjanasinghalemeno.netlify.app/](https://sanjanasinghalemeno.netlify.app/)):
+After running locally or opening the deployed website ([https://alemeno-react-assignment.vercel.app/](https://alemeno-react-assignment.vercel.app/)):
 
 - You will be directed to the cover page.
 - Click on the "Get Started" button.
