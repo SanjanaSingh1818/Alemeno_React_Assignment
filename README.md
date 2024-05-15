@@ -1,8 +1,8 @@
 # Alemeno React Developer Internship Task
 
-**Live Link:** [https://sanjanasinghalemeno.netlify.app/](https://sanjanasinghalemeno.netlify.app/)
+**Live Link:**   [https://alemeno-react-assignment.vercel.app/](https://alemeno-react-assignment.vercel.app/)
 
-## [Git Repo Page](https://github.com/SanjanaSingh/Alemeno-React-Assignment)
+## [Git Repo Page](https://github.com/SanjanaSingh1818/Alemeno_React_Assignment)
 
 **Task:** To create a website showcasing a list of courses and their details using React. The task involves implementing the course listing page, a course details page, and a student dashboard to display enrolled courses.
 
@@ -17,6 +17,7 @@
 
 git clone
 
+https://github.com/SanjanaSingh1818/Alemeno_React_Assignment.git
 
 ### Running the Project Locally
 
