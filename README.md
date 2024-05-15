@@ -45,6 +45,8 @@ After running locally or opening the deployed website ([https://alemeno-react-as
 - Implemented all the mentioned functionalities.
 - Added my own designing and styles.
 - Included the Courses and Instructors Details.
-
+  
+## Demo Video
+[https://github.com/SanjanaSingh1818/Alemeno_React_Assignment/blob/main/video.mp4](https://github.com/SanjanaSingh1818/Alemeno_React_Assignment/blob/main/video.mp4)
 # DONE!
 ## Thank you for giving me this opportunity.
