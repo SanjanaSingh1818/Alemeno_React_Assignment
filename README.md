@@ -20,7 +20,6 @@ https://github.com/SanjanaSingh1818/Alemeno_React_Assignment.git
 
 ### Running the Project Locally
 
-- Navigate to the `index.html` file.
 - Open the terminal and install npm modules.
 
 ### Terminal Commands
