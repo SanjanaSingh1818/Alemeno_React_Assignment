@@ -25,6 +25,7 @@ https://github.com/SanjanaSingh1818/Alemeno_React_Assignment.git
 
 ### Terminal Commands
 npm install
+
 npm start
 
 
